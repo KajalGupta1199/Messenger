@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#4d88ff</color>
+    <color name="green">#4f9900</color>
+    <color name="lightgreen">#b6bf9b</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#666600</color>
+    <string name="app_name">Messenger</string>
+    <string name="gcm_defaultSenderId" translatable="false">87875140550</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpRB3jd-WtbQEcj6ZtjLV3dbWZZN_Y8lo</string>
+    <string name="google_app_id" translatable="false">1:87875140550:android:4e3a99d0b3813ebffbd0c7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpRB3jd-WtbQEcj6ZtjLV3dbWZZN_Y8lo</string>
+    <string name="google_storage_bucket" translatable="false">messenger-7431b.appspot.com</string>
+    <string name="project_id" translatable="false">messenger-7431b</string>
+    <style name="Base.Theme.Messenger" parent="Theme.AppCompat.Light">
+        
+        
+    </style>
+    <style name="Theme.Messenger" parent="Base.Theme.Messenger"/>
+</resources>

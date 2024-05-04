@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/lightgreen">
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/txt_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kajal Gupta"
+            android:textSize="25dp"
+            android:textStyle="normal"
+            android:textColor="@color/black"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="210dp"
+            android:textAlignment="center"
+            android:layout_marginLeft="60dp"/>
+
+        <View
+            android:layout_below="@+id/txt_name"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/white"/>
+
+        <ImageView
+            android:id="@+id/profile"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/baseline_account_circle_24"/>
+
+        <Button
+            android:id="@+id/menubar"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_marginLeft="350dp"
+            android:backgroundTint="@color/black"
+            android:layout_centerVertical="true"
+            android:background="@drawable/baseline_more_horiz_24"/>
+
+
+
+</RelativeLayout>

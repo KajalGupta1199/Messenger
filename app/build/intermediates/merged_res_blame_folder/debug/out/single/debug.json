@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_user_layout.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_help_outline_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_help_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_side.png.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\side.png"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_photo.png.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\photo.png"
+    },
+    {
+        "merged": "com.example.messenger.app-merged_res-39:/layout_user_layout.xml.flat",
+        "source": "com.example.messenger.app-main-41:/layout/user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_sent.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_outline_menu_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\outline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_chat.png.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_btn_backgroud.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\btn_backgroud.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_forum_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_forum_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_more_horiz_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_visibility_off_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_visibility_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_outline_lock_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\outline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_people_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_people_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_activity_messenger.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\activity_messenger.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_receive.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_outline_alternate_email_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\outline_alternate_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_edt_backgroud.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\edt_backgroud.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_chatconnect.png.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\chatconnect.png"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\drawable_message_box_background.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\drawable\\message_box_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kg105\\.gradle\\daemon\\8.0\\com.example.messenger.app-main-41:\\xml\\data_extraction_rules.xml"
+    }
+]
